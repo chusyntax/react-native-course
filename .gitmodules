@@ -1,0 +1,3 @@
+[submodule "react-native-goals-app"]
+	path = react-native-goals-app
+	url = https://github.com/chusyntax/react-native-goals-app.git
